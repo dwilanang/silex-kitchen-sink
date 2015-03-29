@@ -1,0 +1,72 @@
+add-project: Add project
+projects: Projects
+team: Team
+you: Your Profile
+
+title:
+  overview: Projects overview for %accountName%
+  add-project: Add project for %accountName%
+  choose: Choose your organization
+  profile: %name%’s profile
+  team: %accountName%’s team
+
+
+more: more
+edit: Edit
+save: Save
+start-editing: Start editing
+
+message:
+  no-activities: The activity feed is empty
+  no-v2mom: There is no v2mom to show at this time
+  v2mom-version: This is an earlier version of the v2mom. It was last edited %date%.
+  no-measures: There are no projects assigned yet!
+  first-time-v2mom: >
+      This is your first time on this page. Look closely at what each of this keywords mean
+      and edit them using a button on the right.
+  no-organizations: You are not a part of any organization on Github. <a href="%url%">Create one!</a>
+
+v2mom:
+  vision: Your companys (or yours) grand vision. This is the master plan you’re trying to achieve
+  values: Those are tie breakers. Whenever you’ve hit a dead end, look up to your values and decide what to do next.
+  methods: What’s needed to be done, to achieve your goals
+  obstacles: Write down everything that could stop you and… avoid it at all cost! Do not let those reasons interfere with your plan.
+
+user:
+  activity:
+    create: at %date% created <code>%project%</code>
+    assign: at %date% assigned themself to <code>%project%</code>
+    resing: at %date% resigned themself from <code>%project%</code>
+    research: at %date% started a research on <code>%project%</code>
+    cancel: at %date% canceled <code>%project%</code> project
+
+project:
+  transition:
+    research: Start researching
+    start: Start implementing
+    delay: Put on a shelve
+    restore: Start over
+    cancel: Cancel
+    deploy: Finish and deploy
+  group:
+    recent: recent
+    ongoing: ongoing
+    finished: finished
+    new: waiting
+
+
+
+nicedate: %month% %day%, %year%
+months:
+ - January
+ - February
+ - March
+ - April
+ - May
+ - June
+ - July
+ - August
+ - September
+ - October
+ - November
+ - December

@@ -1,0 +1,53 @@
+add-project: Nowy projekt
+projects: Projekty
+team: Zespół
+you: Twój Profil
+
+title:
+  overview: Podsumowanie projektów dla %accountName%
+  add-project: Dodaj projekt do %accountName%
+  choose: Wybierz organizację
+  profile: %name% -- profil
+  team: Zespół %accountName%
+
+more: więcej
+
+no_organizations: Nie jesteś członkiem żadnej organizacji na Githubie. <a href="%url%">Możesz ją założyć!</a>
+
+v2mom:
+  vision: Your companys (or yours) grand vision. This is the master plan you’re trying to achieve
+  values: Those are tie breakers. Whenever you’ve hit a dead end, look up to your values and decide what to do next.
+  methods: What’s needed to be done, to achieve your goals
+  obstacles: Write down everything that could stop you and… avoid it at all cost! Do not let those reasons interfere with your plan.
+
+
+project:
+  transition:
+    research: Przygotuj projekt
+    start: Rozpocznij kodowanie
+    delay: Zostaw na później
+    restore: Przywróć
+    cancel: Przerwij i anuluj
+    deploy: Zakończ
+  group:
+    recent: ostatnie
+    ongoing: trwające
+    finished: zakończone
+    new: oczekujące
+
+
+
+nicedate: %day% %month% %year%
+months:
+ - stycznia
+ - lutego
+ - marca
+ - kwietnia
+ - maja
+ - czerwca
+ - lipca
+ - sierpnia
+ - września
+ - października
+ - listopada
+ - grudnia
